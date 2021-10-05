@@ -1,5 +1,5 @@
 # Readme
-Read this!https://htmlcheatsheet.com/
+Read this!
 
 My-CSS-Repo in order:
 
